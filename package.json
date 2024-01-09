@@ -5,7 +5,6 @@
   "type": "module",
   "homepage": "https://yashprasad234.github.io/not-file-explorer",
   "scripts": {
-    "predeploy": "npm run build",
   "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
